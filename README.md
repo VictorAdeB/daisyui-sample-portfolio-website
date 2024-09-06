@@ -30,7 +30,7 @@ The contact form is powered by **Netlify Forms**. It allows form submissions wit
 
 ### How to use:
 - Always include the `data-netlify="true"` attribute in the form for Netlify to recognize and process it.
-- Insert the following code in your index.html:
+- Insert the code that mirrors the structure of your form in your index.html, here is the one for this website, you can always check the form.jsx and app.jsx for more information:
 
 ```jsx
 <form name="contact" method="POST" data-netlify="true">
