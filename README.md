@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-Welcome to a sample **Personal Portfolio Website**! This is a responsive, single-page portfolio that showcases my projects and contact information. This is built to try out netlify form and daisy ui.
+Welcome to a sample **Personal Portfolio Website**! This is a responsive, single-page portfolio that showcases projects and contact information. This is built to try out Netlify form and Daisy ui.
 
 ## ✨ Features
 
